@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define block 8
 int main(){
     /*
